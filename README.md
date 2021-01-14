@@ -4,6 +4,9 @@ wie versprochen die Codes zum Downloaden.
 
 Wie im Video erwähnt würde ich mich über eine Spende freuen.
 
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=X6XHVCPMRQEL4)
+
+
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="SU55R2HXUCN9U">
